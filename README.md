@@ -1,1 +1,1 @@
-# GoとReactをDockerで同じコンテナにぶち込む。
+# Docker Compose Memo for Go/React
